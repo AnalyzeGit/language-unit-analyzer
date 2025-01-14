@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # Option
 import sys
 import os
@@ -42,10 +36,7 @@ import plotly.graph_objects as go
 from PyQt5.QtCore import QUrl
 import tempfile
 
-
-# In[ ]:
-
-
+# Pyqt
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5 import uic
@@ -1203,10 +1194,4 @@ if __name__ == "__main__":
     #myWindow = WindowClass()
     #myWindow.show()
     #sys.exit(app.exec_()) 
-
-
-# In[ ]:
-
-
-
 
